@@ -1,3 +1,6 @@
 Este es mi primer repositorio de git, es importante activar el comando git init en la carpeta principal
 ya que ahi se cargaran las carpetas ocultas
 code "Archivo" = este es para abrir y editar un archivo con vsc
+
+
+con git add . = anade todo lo que este en la carpeta
