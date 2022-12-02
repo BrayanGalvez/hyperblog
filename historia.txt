@@ -1,0 +1,2 @@
+Este es mi primer repositorio de git, es importante activar el comando git init en la carpeta principal
+ya que ahi se cargaran las carpetas ocultas
