@@ -5,4 +5,4 @@ con git add . = anade todo lo que este en la carpeta
 
 El comando git show (archivo) es para ver los cambios que ocurrieron en el archivo
 
-HEMOS VUELTOOOOOOOOOOOOOOOOO
+HEMOS VUELTOOOOOOOOOOOOOOOOO bby
