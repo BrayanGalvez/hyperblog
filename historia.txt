@@ -4,3 +4,5 @@ code "Archivo" = este es para abrir y editar un archivo con vsc
 con git add . = anade todo lo que este en la carpeta
 
 El comando git show (archivo) es para ver los cambios que ocurrieron en el archivo
+
+HEMOS VUELTOOOOOOOOOOOOOOOOO
