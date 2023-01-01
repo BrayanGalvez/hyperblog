@@ -3,4 +3,14 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: purple ;
     color: aliceblue;
+    
+}
+.container{
+    width: 70%;
+    padding: 1em;
+    justify-content:center;
+    align-items: center;
+    border: 1px solid rgb(0, 0, 0);
+    background: black;
+    margin: 0 auto;
 }
